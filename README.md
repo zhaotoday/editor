@@ -9,3 +9,4 @@
 - [tinymce](https://github.com/tinymce/tinymce)
 - [lexical](https://github.com/facebook/lexical)
 - [image-editor](https://github.com/mtsee/image-editor)
+- [codemirror-editor-vue3](https://github.com/rennzhang/codemirror-editor-vue3)
