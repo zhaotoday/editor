@@ -6,3 +6,4 @@
 - [milkdown](https://github.com/Milkdown/milkdown)
 - [AFFiNE](https://github.com/toeverything/AFFiNE)
 - [tinymce](https://github.com/tinymce/tinymce)
+- [lexical](https://github.com/facebook/lexical)
