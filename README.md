@@ -10,3 +10,4 @@
 - [lexical](https://github.com/facebook/lexical)
 - [image-editor](https://github.com/mtsee/image-editor)
 - [codemirror-editor-vue3](https://github.com/rennzhang/codemirror-editor-vue3)
+- [monaco-editor](https://github.com/microsoft/monaco-editor)
