@@ -12,3 +12,4 @@
 - [codemirror-editor-vue3](https://github.com/rennzhang/codemirror-editor-vue3)
 - [monaco-editor](https://github.com/microsoft/monaco-editor)
 - [isle-editor](https://github.com/isboyjc/isle-editor)
+- [canvas-editor](https://hufe.club/canvas-editor-docs/)
