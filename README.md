@@ -14,3 +14,6 @@
 - [monaco-editor](https://github.com/microsoft/monaco-editor)
 - [isle-editor](https://github.com/isboyjc/isle-editor)
 - [canvas-editor](https://hufe.club/canvas-editor-docs/)
+
+#### 竞品
+- [flowmix](https://flowmix.turntip.cn/)
