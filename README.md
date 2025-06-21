@@ -1,4 +1,5 @@
 #### 开源
+- [md-editor-v3](https://github.com/imzbf/md-editor-v3)
 - [plate](https://github.com/udecode/plate)
 - [tiny-editor](https://github.com/opentiny/tiny-editor)
 - [ckeditor5](https://github.com/ckeditor/ckeditor5)
