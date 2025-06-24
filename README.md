@@ -1,4 +1,5 @@
 #### 开源
+- [yjs](https://github.com/yjs/yjs)
 - [editor.js](https://github.com/codex-team/editor.js)
 - [plate](https://github.com/udecode/plate)
 - [tiny-editor](https://github.com/opentiny/tiny-editor)
