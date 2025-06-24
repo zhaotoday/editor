@@ -21,3 +21,6 @@
 
 #### 竞品
 - [flowmix](https://flowmix.turntip.cn/)
+
+#### 文章
+- [再遇协同编辑：Yjs + Quill，文档协同编辑竟如此简单](https://juejin.cn/post/7339341982836097075)
