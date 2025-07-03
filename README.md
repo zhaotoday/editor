@@ -1,4 +1,5 @@
 #### 开源
+- [tiptap-appmsg-editor](https://github.com/KID-1912/tiptap-appmsg-editor)
 - [md-editor-v3](https://github.com/imzbf/md-editor-v3)
 - [tiny-editor](https://github.com/opentiny/tiny-editor)
 - [yjs](https://github.com/yjs/yjs)
