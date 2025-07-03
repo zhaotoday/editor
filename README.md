@@ -1,3 +1,7 @@
+#### 产品
+- [壹伴](https://yiban.io/)
+- [flowmix](https://flowmix.turntip.cn/)
+
 #### 开源
 - [tiptap-appmsg-editor](https://github.com/KID-1912/tiptap-appmsg-editor)
 - [md-editor-v3](https://github.com/imzbf/md-editor-v3)
@@ -21,9 +25,6 @@
 - [isle-editor](https://github.com/isboyjc/isle-editor)
 - [canvas-editor](https://hufe.club/canvas-editor-docs/)
 - [md-editor-v3](https://github.com/imzbf/md-editor-v3)
-
-#### 竞品
-- [flowmix](https://flowmix.turntip.cn/)
 
 #### 文章
 - [原来这些高大上的在线代码编辑器都是基于它们实现的](https://juejin.cn/post/7405531068663152650)
