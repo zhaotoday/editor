@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [wangEditor-next](https://github.com/wangeditor-next/wangEditor-next)
 - [doocs/md](https://github.com/doocs/md)
 - [mdx-notes](https://github.com/maqi1520/mdx-notes)
 - [tiptap-appmsg-editor](https://github.com/KID-1912/tiptap-appmsg-editor)
