@@ -30,6 +30,7 @@
 - [md-editor-v3](https://github.com/imzbf/md-editor-v3)
 
 #### 文章
+- [富文本选型太难了，谁来帮帮我！](https://juejin.cn/post/7434373084747333658)
 - [Yjs 实战 1 - 为富文本编辑器提供协作服务](https://juejin.cn/post/7401071898031767578)
 - [Tiptap、Yjs实现协同编辑](https://juejin.cn/post/7513868165253758986)
 - [原来这些高大上的在线代码编辑器都是基于它们实现的](https://juejin.cn/post/7405531068663152650)
