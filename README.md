@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 - [umodoc/editor](https://github.com/umodoc/editor)
 - [online-edit-web](https://github.com/xun082/online-edit-web)
 - [wangEditor-next](https://github.com/wangeditor-next/wangEditor-next)
