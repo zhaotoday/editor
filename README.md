@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [obsidian-md2wechat](https://github.com/geekjourneyx/obsidian-md2wechat)
 - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 - [umodoc/editor](https://github.com/umodoc/editor)
 - [online-edit-web](https://github.com/xun082/online-edit-web)
