@@ -32,6 +32,7 @@
 - [isle-editor](https://github.com/isboyjc/isle-editor)
 - [canvas-editor](https://hufe.club/canvas-editor-docs/)
 - [md-editor-v3](https://github.com/imzbf/md-editor-v3)
+- [modern-monaco](https://github.com/esm-dev/modern-monaco)
 
 #### 文章
 - [一个开源的在线代码编辑器正在做 ws 协同编辑，期待你的加入😃😃😃](https://juejin.cn/post/7409675898328039463)
