@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [aieditor](https://github.com/aieditor-team/aieditor)
 - [obsidian-md2wechat](https://github.com/geekjourneyx/obsidian-md2wechat)
 - [Roo-Code](https://github.com/RooCodeInc/Roo-Code)
 - [umodoc/editor](https://github.com/umodoc/editor)
