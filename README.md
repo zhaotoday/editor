@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [Paper](https://github.com/xiaolinbaba/Paper)
 - [markdown-nice](https://github.com/whaoa/markdown-nice)
 - [aieditor](https://github.com/aieditor-team/aieditor)
 - [obsidian-md2wechat](https://github.com/geekjourneyx/obsidian-md2wechat)
