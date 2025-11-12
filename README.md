@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [auto-editor](https://github.com/WyattBlue/auto-editor)
 - [ai-video-editor](https://github.com/spacegt-master/ai-video-editor)
 - [mdeditor](https://github.com/xiaobox/mdeditor)
 - [Paper](https://github.com/xiaolinbaba/Paper)
