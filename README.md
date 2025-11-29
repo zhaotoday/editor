@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [easy-email-editor](https://github.com/zalify/easy-email-editor)
 - [auto-editor](https://github.com/WyattBlue/auto-editor)
 - [ai-video-editor](https://github.com/spacegt-master/ai-video-editor)
 - [mdeditor](https://github.com/xiaobox/mdeditor)
