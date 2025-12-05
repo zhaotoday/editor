@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [tmagic-editor](https://github.com/Tencent/tmagic-editor)
 - [markdown-exit](https://github.com/serkodev/markdown-exit)
 - [EasyEditor](https://easy-editor-docs.vercel.app/)
 - [easy-email-editor](https://github.com/zalify/easy-email-editor)
