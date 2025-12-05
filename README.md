@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [markdown-exit](https://github.com/serkodev/markdown-exit)
 - [EasyEditor](https://easy-editor-docs.vercel.app/)
 - [easy-email-editor](https://github.com/zalify/easy-email-editor)
 - [auto-editor](https://github.com/WyattBlue/auto-editor)
