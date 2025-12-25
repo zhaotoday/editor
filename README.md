@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [svgedit](https://github.com/SVG-Edit/svgedit)
 - [yjs-demos](https://github.com/yjs/yjs-demos)
 - [gzm-design](https://github.com/LvHuaiSheng/gzm-design)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor)
