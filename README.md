@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [poster-design](https://github.com/palxiao/poster-design)
 - [svgedit](https://github.com/SVG-Edit/svgedit)
 - [yjs-demos](https://github.com/yjs/yjs-demos)
 - [fabric](https://github.com/liumingye/fabric)
