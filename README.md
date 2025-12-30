@@ -5,6 +5,7 @@
 #### 开源
 - [svgedit](https://github.com/SVG-Edit/svgedit)
 - [yjs-demos](https://github.com/yjs/yjs-demos)
+- [fabric](https://github.com/liumingye/fabric)
 - [gzm-design](https://github.com/LvHuaiSheng/gzm-design)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor)
 - [markdown-exit](https://github.com/serkodev/markdown-exit)
