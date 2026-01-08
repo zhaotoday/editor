@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [leaferjs](https://www.leaferjs.com/)
 - [vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor)
 - [poster-design](https://github.com/palxiao/poster-design)
 - [svgedit](https://github.com/SVG-Edit/svgedit)
