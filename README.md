@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [jscad](https://github.com/jscad/OpenJSCAD.org)
 - [leaferjs](https://www.leaferjs.com/)
 - [vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor)
 - [poster-design](https://github.com/palxiao/poster-design)
