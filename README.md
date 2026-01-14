@@ -53,6 +53,7 @@
 - [modern-monaco](https://github.com/esm-dev/modern-monaco)
 
 #### 文章
+- [深度定制：在富文本编辑器中封装实用的 AI 写作助手功能](https://juejin.cn/post/7563910479006220288)
 - [Gzm Design：开源神器！用 Vue3、Vite4、TypeScript 革新海报设计，免费开源的海报设计器，主流技术打造，轻松高效](https://juejin.cn/post/7470799482638139429)
 - [Vue 团队成员又搞了个 "新玩具"！](https://juejin.cn/post/7567889397497741375)
 - [在 Vue 3.5 中优雅地集成 wangEditor，并定制“AI 工具”下拉菜单（总结/润色/翻译）](https://juejin.cn/post/7563108340537278518)
