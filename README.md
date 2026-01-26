@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [mermaid-to-excalidraw](https://github.com/excalidraw/mermaid-to-excalidraw)
 - [fabricjs](https://fabricjs.com/)
 - [jscad](https://github.com/jscad/OpenJSCAD.org)
 - [leaferjs](https://www.leaferjs.com/)
