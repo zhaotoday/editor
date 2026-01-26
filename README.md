@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries)
 - [excalidraw-animate](https://github.com/dai-shi/excalidraw-animate)
 - [mermaid-to-excalidraw](https://github.com/excalidraw/mermaid-to-excalidraw)
 - [fabricjs](https://fabricjs.com/)
