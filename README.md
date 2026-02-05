@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [quill-table-up](https://quill-modules.github.io/quill-table-up/)
 - [excalidraw](https://github.com/excalidraw/excalidraw)
 - [obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 - [smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next)
