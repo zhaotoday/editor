@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [raphael-publish](https://github.com/liuxiaopai-ai/raphael-publish)
 - [shiki](https://github.com/shikijs/shiki)
 - [noco-form](https://github.com/nocokit/noco-form)
 - [form-create-designer](https://github.com/xaboy/form-create-designer)
