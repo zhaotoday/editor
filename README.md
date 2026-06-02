@@ -3,6 +3,7 @@
 - [flowmix](https://flowmix.turntip.cn/)
 
 #### 开源
+- [docx-editor](https://github.com/eigenpal/docx-editor)
 - [textbus](https://github.com/textbus/textbus)
 - [editor](https://github.com/pascalorg/editor)
 - [DocFlow](https://github.com/xun082/DocFlow)
